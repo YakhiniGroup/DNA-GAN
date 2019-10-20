@@ -55,7 +55,7 @@ python-dateutil==2.7.3
 python-utils==2.3.0
 pytorchviz==0.0.1
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==17.1.2
 qtconsole==4.3.1
 scikit-learn==0.19.2
